@@ -5,29 +5,25 @@
 - [WCF Web Services Architecture](01Introduction/WCFWebServicesArchitecture.md) 
 - [Addresses, Bindings and Contracts](01Introduction/AddressesBindingsandContracts.md) 
 - [WCF Service Libraries](01Introduction/WCFWebServicesArchitecture.md) 
-- WCF Test Host and Test Client
-- ChannelFactory Class
-- Configuring WCF Clients
-- Standard Endpoints
+- WCF [Test Host](01Introduction/WCFServiceHost.md) and [Test Client](01Introduction/WCFTestClient.md) 
+- [ChannelFactory Class](01Introduction/ChannelFactoryClass.md) 
+- [Configuring WCF Clients](01Introduction/ClientConfiguration.md) 
+- [Standard Endpoints](01Introduction/StandardEndpoints.md) 
 
 
 
 **Service Addresses**
 
-- Address Types
+- [Address Types](02ServiceAddresses/AddressTypes.md) 
   - Endpoint Address
   - Base Address
   - MEX (Message Exchange) Address
 - Metadata Exchange
-- Address Formats
+- [Address Formats](02ServiceAddresses/AddressFormats.md) 
 
 **Selecting Binding Options**
 
-- Binding Selection
-- HTTP Bindings
-- TCP and Named Pipe Bindings
-- MSMQ Binding
-- BasicHttpBinding Class
+- [Binding Selection](03SelectingBindingOptions/Bindings.md) :  HTTP Bindings, TCP and Named Pipe Bindings, MSMQ Binding, BasicHttpBinding Class
 
 **Managing a Service Instance**
 
