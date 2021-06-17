@@ -2,9 +2,9 @@
 
 **Introduction to WCF**
 
-- WCF Web Services Architecture
-- Addresses, Bindings and Contracts
-- WCF Service Libraries
+- [WCF Web Services Architecture](01Introduction/WCFWebServicesArchitecture.md) 
+- [Addresses, Bindings and Contracts](01Introduction/AddressesBindingsandContracts.md) 
+- [WCF Service Libraries](01Introduction/WCFWebServicesArchitecture.md) 
 - WCF Test Host and Test Client
 - ChannelFactory Class
 - Configuring WCF Clients
