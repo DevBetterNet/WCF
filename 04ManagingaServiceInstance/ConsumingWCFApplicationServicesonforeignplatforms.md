@@ -1,0 +1,2 @@
+find in https://docs.microsoft.com/en-us/dotnet/framework/wcf/configuring-services
+

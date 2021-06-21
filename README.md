@@ -27,26 +27,26 @@
 
 **Managing a Service Instance**
 
-- Configuring Behaviors
-- Service Instance Models
+- [Configuring Behaviors](04ManagingaServiceInstance/ConfiguringBehaviors.md) 
+- [Service Instance Models](04ManagingaServiceInstance\ServiceInstanceModels.md) 
   - Per-Call
   - Per-Session
   - Singleton
-- Threading Considerations
-- Consuming WCF Application Services with .NET Applications
-- Consuming WCF Application Services on foreign platforms
+- [Threading Considerations](04ManagingaServiceInstance/ThreadingConsiderations.md) 
+- [Consuming WCF Application Services with .NET Applications](04ManagingaServiceInstance\ConsumingWCFApplicationServiceswithNETApplications.md) 
+- [Consuming WCF Application Services on foreign platforms](04ManagingaServiceInstance\ConsumingWCFApplicationServicesonforeignplatforms.md) 
 
 
 
 **Defining Service Contracts**
 
-- Service and Operation Contracts
+- [Service and Operation Contracts](05DefiningServiceContracts\ServiceandOperationContracts.md) 
 
-- Creating Contracts at the Class and Interface Level
+- [Creating Contracts at the Class and Interface Level](05DefiningServiceContracts\Creating ContractsattheClassandInterfaceLevel.md) 
 
-- Using ServiceContractAttribute
+- [Using ServiceContractAttribute](05DefiningServiceContracts\UsingServiceContractAttribute.md) 
 
-- Types of Service Contracts
+- [Types of Service Contracts](04ManagingaServiceInstance\TypesofServiceContracts.md) 
   - Oneway
   - Request-Reply
   - Duplex
