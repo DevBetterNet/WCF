@@ -1,0 +1,7 @@
+C:\code\github\DevBetterNet\WCF\05DefiningServiceContracts\examples\WcfServiceLibrary\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll.config
+C:\code\github\DevBetterNet\WCF\05DefiningServiceContracts\examples\WcfServiceLibrary\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll
+C:\code\github\DevBetterNet\WCF\05DefiningServiceContracts\examples\WcfServiceLibrary\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.pdb
+C:\code\github\DevBetterNet\WCF\05DefiningServiceContracts\examples\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csproj.AssemblyReference.cache
+C:\code\github\DevBetterNet\WCF\05DefiningServiceContracts\examples\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csproj.CoreCompileInputs.cache
+C:\code\github\DevBetterNet\WCF\05DefiningServiceContracts\examples\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.dll
+C:\code\github\DevBetterNet\WCF\05DefiningServiceContracts\examples\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.pdb

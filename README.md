@@ -83,7 +83,7 @@
 
 **Endpoints**
 
-- Endpoints Explained
+- [Endpoints Explained](07Endpoints\EndpointsExplained.md) 
 
 - Working with Endpoints
 
